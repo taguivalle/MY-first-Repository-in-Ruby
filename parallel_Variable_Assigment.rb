@@ -13,5 +13,7 @@ puts
 print a, b, c 
 puts
 a, b, c = a, b, c 
+puts 
+d, e, f = 10, 20, 30
 
 
