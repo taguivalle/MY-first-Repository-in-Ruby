@@ -1,4 +1,4 @@
-# parallel Variable Assigmente
+# parallel Variable Assigment
 a = 5
 b = 6
 c = 7
