@@ -13,4 +13,5 @@ first_Name = first_Name.concat(last_Name)
 puts
 p first_Name + last_Name + "Wizard"
 p first_Name << last_Name << "Wizard"
+puts
 
