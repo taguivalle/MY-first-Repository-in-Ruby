@@ -14,4 +14,9 @@ puts
 p first_Name + last_Name + "Wizard"
 p first_Name << last_Name << "Wizard"
 puts
-p first_Name.prepend(last_Name)
+other_name = "Nicolas "
+other_lastname = "Gomez "
+p other_lastname.prepend(other_lastname)
+p first_Name
+p other_name
+
