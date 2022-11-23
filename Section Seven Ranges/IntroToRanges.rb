@@ -17,4 +17,18 @@ p num.class
 p num.first(4)
 p num.last
 p num.last(1)# When it is with the two ellipses, it shows the last number or until the last range
-
+puts
+print "Coding Exercise Solution: Dynamic Range\n"
+print "1. Define a dynamic_range method that accepts two numeric parameters.
+2. The first parameter will be a lower bound.
+3. The second parameter will be an upper bound.
+4. Return a Range object from the method that captures the range
+5. of numbers from the lower bound to the upper bound.
+6. The upper bound should be INCLUSIVE.\n"
+puts
+def dynamic_range(lower, upper)
+    (lower..upper)
+end
+p dynamic_range.first
+p dynamic_range.last
+p dynamic_range.last(lower..upper)
