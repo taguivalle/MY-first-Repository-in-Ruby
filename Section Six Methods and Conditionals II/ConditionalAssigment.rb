@@ -45,4 +45,7 @@ p "three response"
 print "question four\n"
 p "fourth response"
 print "question five\n"
+name = "Boris"
+x = name[5]
+x ||= "Z"
 p "three response"
