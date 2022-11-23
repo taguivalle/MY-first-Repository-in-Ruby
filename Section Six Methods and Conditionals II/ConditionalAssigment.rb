@@ -33,3 +33,16 @@ p letter
 letter ||= "Not found"
 p letter
 puts
+print "question one\n"
+p "fourth response"
+print "question two\n"
+p "second response"
+print "question three\n"
+if 3 * 2 == 6
+    puts "The two are equal\n"
+end
+p "three response"
+print "question four\n"
+p "fourth response"
+print "question five\n"
+p "three response"
