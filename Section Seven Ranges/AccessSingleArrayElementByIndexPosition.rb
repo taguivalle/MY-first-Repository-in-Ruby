@@ -1,8 +1,14 @@
 fruits = ["Apple", "Orange", "Grape", "Banana"]
 p "Hello World".length
 puts
+print "Other lesson: "
+print
 p fruits.length
 p fruits[0]
+p fruits[3]
+p fruits[-3]
+p fruits.[](3)
+p fruits.[](-3)
 puts
 fruits1 = ["Apple", "Orange", "Grape", "Banana", "Watermelon", "Lemon"]
 p fruits1[0]
