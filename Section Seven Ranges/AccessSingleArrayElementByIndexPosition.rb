@@ -4,9 +4,14 @@ puts
 p fruits.length
 p fruits[0]
 puts
-fruits1 = ["Apple", "Orange", "Grape", "Banana"]
+fruits1 = ["Apple", "Orange", "Grape", "Banana", "Watermelon", "Lemon"]
 p fruits1[0]
 p fruits1[1]
 p fruits1[2]
 p fruits1[3]
 puts
+print "The ultimate fruit is: "
+p fruits1[fruits1.length - 1]
+puts
+p fruits1[- 1]
+p fruits1[- 3]
