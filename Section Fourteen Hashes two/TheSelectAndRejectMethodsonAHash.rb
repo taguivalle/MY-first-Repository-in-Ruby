@@ -26,6 +26,6 @@ print "so we want to convert it to a string and then we want to check whether it
 includes_s = recipe.reject {|ingredient, teaspoons| ingredient.to_s.include?("s")}
 p includes_s
 puts
-ncludes_s = recipe.select {|ingredient, teaspoons| ingredient.to_s.include?("s")}
+includes_s = recipe.select {|ingredient, teaspoons| ingredient.to_s.include?("s")}
 p includes_s
 puts
