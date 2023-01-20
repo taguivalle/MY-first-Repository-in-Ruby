@@ -1,0 +1,2 @@
+This will be appended to the end
+And one more line with file.printAnd another line with file.write
