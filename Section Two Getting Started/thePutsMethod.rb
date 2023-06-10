@@ -1,4 +1,4 @@
-print "welcom to hte next section of the course. this section is called gettin started and these lessons, we're going to explore the 
+print "welcom to the lesson twenty one of the course. this section is called gettin started and these lessons, we're going to explore the 
 fundamental of Ruby, the building blocks that we need to learn to understand more advanced concepts later on in the course. So int htis 
 lesson, we want to review the puts method, which we saw briefly earlier in our Hello World example. And as a reminder, we can think of a 
 method as a command in Ruby. It is an instruction thet we can ask the language to excuse for us a procedure or a behavior, something the 
@@ -200,4 +200,4 @@ on one line and make it hard to read the result. Form a programmatic perspective
 the convention you should if you're providing multiple values to puts teccnically. In no diffrence from a visual perspective, much easier to 
 reason about."
 puts
-print "So that is a quick introduction to the puts method, and we will see we in the next lesson."
+print "So that is a quick introduction to the puts method, and we will see we in the next lesson twenty two."

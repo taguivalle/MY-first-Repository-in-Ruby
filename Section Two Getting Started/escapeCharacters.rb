@@ -1,4 +1,4 @@
-print "In this lesson, we'll introduce escape characters, which are special symbols that we can use within a Ruby string. In other words, 
+print "In this lesson twenty two, we'll introduce escape characters, which are special symbols that we can use within a Ruby string. In other words, 
 within a pice of text, an escape character adds some kind of special effect to the string, like a visual change to the output. So the 
 reason it's called an escape characters is because it escapes or avoids the traditional pattern or expected output of a string. Whenever
 we write a string, like, for example, some text. The expected pattern is the Ruby is going to ooutput the characters exactly in order with
@@ -69,4 +69,5 @@ puts 'Julieth said "Goodbye" to Romeo'
 print "It is specifically in these two scenarios where there's the potential for our characters to conflict with Ruby's expected syntax that
 we have that potential for error and where we have to introduce special characcters to solve a problem. So it's not just for fun and 
 formatting like slash t, it can be important when we're using real world ideas like dialogue or like quotes and how they interact with Ruby
-can sometimes be problematic and escape characters can help we solve that problem. That's jsut a quick introduction to escape characters."
+can sometimes be problematic and escape characters can help we solve that problem. That's jsut a quick introduction to escape characters.
+Please se the next lesson twenty three."
