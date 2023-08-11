@@ -46,3 +46,4 @@ done running name and age cease to exist.\n\n"
 print "They only exist within these four lines in this example. and we can do whatever we want with 
 them within the context of that method body.\n\n"
 print "That is all there is to cover in this lesson. So I will see you in the next one."
+print "Hello world"
